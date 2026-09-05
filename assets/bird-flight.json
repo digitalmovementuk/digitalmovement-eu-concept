@@ -1,0 +1,1131 @@
+{
+  "frameCount": 64,
+  "fps": 35,
+  "tileSize": 512,
+  "columns": 8,
+  "rows": 4,
+  "framesPerAtlas": 32,
+  "width": 4096,
+  "height": 2048,
+  "files": [
+    "bird-flight-01.webp",
+    "bird-flight-02.webp"
+  ],
+  "urls": [
+    "/assets/bird-flight-01.webp",
+    "/assets/bird-flight-02.webp"
+  ],
+  "start": 4.2,
+  "end": 6,
+  "duration": 1.7999999999999998,
+  "loop": false,
+  "range": [
+    4.2,
+    6
+  ],
+  "alpha": true,
+  "source": {
+    "localFile": "research/bird-source.mp4",
+    "url": "https://www.pexels.com/video/birds-india-varanasi-big-river-3911117/",
+    "directVideoUrl": "https://videos.pexels.com/video-files/3911117/3911117-hd_1920_1080_30fps.mp4",
+    "author": "av",
+    "authorUrl": "https://www.pexels.com/@avshek/",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "width": 1920,
+    "height": 1080,
+    "duration": 26.666667
+  },
+  "method": "Real footage decoded and keyed in browser Canvas; tracked connected component, feather-edge alpha, fixed-size tracked crops. No generated wing motion.",
+  "builtAt": "2026-09-05T11:28:51.852Z",
+  "frames": [
+    {
+      "index": 0,
+      "time": 4.2,
+      "visiblePixels": 30846,
+      "sourceCrop": {
+        "x": 261.02622754902734,
+        "y": 139.7354868044464,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 366,
+        "y": 362,
+        "width": 764,
+        "height": 564
+      }
+    },
+    {
+      "index": 1,
+      "time": 4.228571428571429,
+      "visiblePixels": 30893,
+      "sourceCrop": {
+        "x": 264.5987509920037,
+        "y": 135.43745818586285,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 366,
+        "y": 362,
+        "width": 764,
+        "height": 564
+      }
+    },
+    {
+      "index": 2,
+      "time": 4.257142857142857,
+      "visiblePixels": 31329,
+      "sourceCrop": {
+        "x": 274.6312047418437,
+        "y": 126.1375634747219,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 376,
+        "y": 410,
+        "width": 682,
+        "height": 522
+      }
+    },
+    {
+      "index": 3,
+      "time": 4.285714285714286,
+      "visiblePixels": 30051,
+      "sourceCrop": {
+        "x": 288.3520953360421,
+        "y": 113.85257987073578,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 400,
+        "y": 396,
+        "width": 624,
+        "height": 512
+      }
+    },
+    {
+      "index": 4,
+      "time": 4.314285714285714,
+      "visiblePixels": 28916,
+      "sourceCrop": {
+        "x": 307.0976919574729,
+        "y": 96.91047988827961,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 436,
+        "y": 372,
+        "width": 590,
+        "height": 500
+      }
+    },
+    {
+      "index": 5,
+      "time": 4.342857142857143,
+      "visiblePixels": 28779,
+      "sourceCrop": {
+        "x": 325.8432885789035,
+        "y": 79.96837990582355,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 486,
+        "y": 344,
+        "width": 584,
+        "height": 492
+      }
+    },
+    {
+      "index": 6,
+      "time": 4.371428571428572,
+      "visiblePixels": 28423,
+      "sourceCrop": {
+        "x": 350.98040439721206,
+        "y": 57.3478583087674,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 542,
+        "y": 316,
+        "width": 594,
+        "height": 464
+      }
+    },
+    {
+      "index": 7,
+      "time": 4.4,
+      "visiblePixels": 28453,
+      "sourceCrop": {
+        "x": 376.6446174881305,
+        "y": 35.81404747130523,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 592,
+        "y": 276,
+        "width": 596,
+        "height": 448
+      }
+    },
+    {
+      "index": 8,
+      "time": 4.428571428571429,
+      "visiblePixels": 28417,
+      "sourceCrop": {
+        "x": 398.2486901529577,
+        "y": 19.775445238461373,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 592,
+        "y": 276,
+        "width": 596,
+        "height": 448
+      }
+    },
+    {
+      "index": 9,
+      "time": 4.457142857142857,
+      "visiblePixels": 27847,
+      "sourceCrop": {
+        "x": 413.0915887928976,
+        "y": 12.015354985052852,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 640,
+        "y": 224,
+        "width": 566,
+        "height": 518
+      }
+    },
+    {
+      "index": 10,
+      "time": 4.485714285714286,
+      "visiblePixels": 27135,
+      "sourceCrop": {
+        "x": 422.18156037127426,
+        "y": 11.586962572687696,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 658,
+        "y": 188,
+        "width": 532,
+        "height": 576
+      }
+    },
+    {
+      "index": 11,
+      "time": 4.514285714285714,
+      "visiblePixels": 26278,
+      "sourceCrop": {
+        "x": 427.594433313894,
+        "y": 17.302242644258683,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 658,
+        "y": 178,
+        "width": 518,
+        "height": 606
+      }
+    },
+    {
+      "index": 12,
+      "time": 4.542857142857143,
+      "visiblePixels": 25356,
+      "sourceCrop": {
+        "x": 433.00730625651374,
+        "y": 23.017522715829728,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 658,
+        "y": 166,
+        "width": 514,
+        "height": 638
+      }
+    },
+    {
+      "index": 13,
+      "time": 4.571428571428571,
+      "visiblePixels": 23913,
+      "sourceCrop": {
+        "x": 435.7508242576399,
+        "y": 33.25747520363677,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 640,
+        "y": 152,
+        "width": 526,
+        "height": 666
+      }
+    },
+    {
+      "index": 14,
+      "time": 4.6,
+      "visiblePixels": 23709,
+      "sourceCrop": {
+        "x": 435.02516805245,
+        "y": 46.930976131199486,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 608,
+        "y": 144,
+        "width": 556,
+        "height": 686
+      }
+    },
+    {
+      "index": 15,
+      "time": 4.628571428571429,
+      "visiblePixels": 23728,
+      "sourceCrop": {
+        "x": 430.31108304453903,
+        "y": 64.33502622328933,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 608,
+        "y": 144,
+        "width": 556,
+        "height": 686
+      }
+    },
+    {
+      "index": 16,
+      "time": 4.6571428571428575,
+      "visiblePixels": 24505,
+      "sourceCrop": {
+        "x": 421.0142763774072,
+        "y": 85.67509164045919,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 562,
+        "y": 166,
+        "width": 604,
+        "height": 668
+      }
+    },
+    {
+      "index": 17,
+      "time": 4.685714285714286,
+      "visiblePixels": 23727,
+      "sourceCrop": {
+        "x": 404.6092696983302,
+        "y": 112.7976027813271,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 516,
+        "y": 204,
+        "width": 642,
+        "height": 626
+      }
+    },
+    {
+      "index": 18,
+      "time": 4.714285714285714,
+      "visiblePixels": 21724,
+      "sourceCrop": {
+        "x": 377.8270346054204,
+        "y": 144.69032951287056,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 472,
+        "y": 274,
+        "width": 674,
+        "height": 550
+      }
+    },
+    {
+      "index": 19,
+      "time": 4.742857142857143,
+      "visiblePixels": 20268,
+      "sourceCrop": {
+        "x": 351.0447995125106,
+        "y": 176.58305624441425,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 436,
+        "y": 384,
+        "width": 676,
+        "height": 472
+      }
+    },
+    {
+      "index": 20,
+      "time": 4.771428571428571,
+      "visiblePixels": 20192,
+      "sourceCrop": {
+        "x": 321.5909643764862,
+        "y": 206.71010936344908,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 414,
+        "y": 528,
+        "width": 654,
+        "height": 408
+      }
+    },
+    {
+      "index": 21,
+      "time": 4.8,
+      "visiblePixels": 21667,
+      "sourceCrop": {
+        "x": 297.0828840647431,
+        "y": 229.71267827357576,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 396,
+        "y": 598,
+        "width": 626,
+        "height": 376
+      }
+    },
+    {
+      "index": 22,
+      "time": 4.828571428571428,
+      "visiblePixels": 21663,
+      "sourceCrop": {
+        "x": 282.83557757459926,
+        "y": 241.58909434196335,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 396,
+        "y": 598,
+        "width": 626,
+        "height": 376
+      }
+    },
+    {
+      "index": 23,
+      "time": 4.857142857142858,
+      "visiblePixels": 23431,
+      "sourceCrop": {
+        "x": 284.5083556233445,
+        "y": 238.39747170200337,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 392,
+        "y": 574,
+        "width": 632,
+        "height": 400
+      }
+    },
+    {
+      "index": 24,
+      "time": 4.885714285714286,
+      "visiblePixels": 22810,
+      "sourceCrop": {
+        "x": 300.92974046448296,
+        "y": 221.0845558269824,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 416,
+        "y": 540,
+        "width": 606,
+        "height": 400
+      }
+    },
+    {
+      "index": 25,
+      "time": 4.914285714285715,
+      "visiblePixels": 21679,
+      "sourceCrop": {
+        "x": 330.77889717405776,
+        "y": 192.57256792662588,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 468,
+        "y": 500,
+        "width": 556,
+        "height": 390
+      }
+    },
+    {
+      "index": 26,
+      "time": 4.942857142857143,
+      "visiblePixels": 22926,
+      "sourceCrop": {
+        "x": 360.62805388363256,
+        "y": 164.060580026269,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 560,
+        "y": 460,
+        "width": 534,
+        "height": 368
+      }
+    },
+    {
+      "index": 27,
+      "time": 4.9714285714285715,
+      "visiblePixels": 24120,
+      "sourceCrop": {
+        "x": 393.68865360193195,
+        "y": 133.91462396543795,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 650,
+        "y": 430,
+        "width": 558,
+        "height": 386
+      }
+    },
+    {
+      "index": 28,
+      "time": 5,
+      "visiblePixels": 24213,
+      "sourceCrop": {
+        "x": 424.59989506308136,
+        "y": 107.69175964016517,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 678,
+        "y": 368,
+        "width": 578,
+        "height": 456
+      }
+    },
+    {
+      "index": 29,
+      "time": 5.0285714285714285,
+      "visiblePixels": 24242,
+      "sourceCrop": {
+        "x": 449.15029844447065,
+        "y": 88.59269304273494,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 678,
+        "y": 368,
+        "width": 578,
+        "height": 456
+      }
+    },
+    {
+      "index": 30,
+      "time": 5.057142857142857,
+      "visiblePixels": 24443,
+      "sourceCrop": {
+        "x": 463.387921865263,
+        "y": 78.28809328872865,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 684,
+        "y": 296,
+        "width": 566,
+        "height": 540
+      }
+    },
+    {
+      "index": 31,
+      "time": 5.085714285714285,
+      "visiblePixels": 23981,
+      "sourceCrop": {
+        "x": 470.2108440180093,
+        "y": 75.19626493024657,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 688,
+        "y": 276,
+        "width": 556,
+        "height": 570
+      }
+    },
+    {
+      "index": 32,
+      "time": 5.114285714285714,
+      "visiblePixels": 22989,
+      "sourceCrop": {
+        "x": 472.479845104907,
+        "y": 77.329347903653,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 692,
+        "y": 240,
+        "width": 556,
+        "height": 614
+      }
+    },
+    {
+      "index": 33,
+      "time": 5.142857142857143,
+      "visiblePixels": 22443,
+      "sourceCrop": {
+        "x": 474.74884619180455,
+        "y": 79.46243087705955,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 694,
+        "y": 240,
+        "width": 554,
+        "height": 620
+      }
+    },
+    {
+      "index": 34,
+      "time": 5.171428571428572,
+      "visiblePixels": 22174,
+      "sourceCrop": {
+        "x": 474.1025665905563,
+        "y": 84.83026869181583,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 694,
+        "y": 242,
+        "width": 552,
+        "height": 620
+      }
+    },
+    {
+      "index": 35,
+      "time": 5.2,
+      "visiblePixels": 21910,
+      "sourceCrop": {
+        "x": 469.0958281886959,
+        "y": 94.04120472432248,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 652,
+        "y": 256,
+        "width": 580,
+        "height": 604
+      }
+    },
+    {
+      "index": 36,
+      "time": 5.228571428571429,
+      "visiblePixels": 21910,
+      "sourceCrop": {
+        "x": 457.5319458251879,
+        "y": 107.44120949248975,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 652,
+        "y": 256,
+        "width": 580,
+        "height": 604
+      }
+    },
+    {
+      "index": 37,
+      "time": 5.257142857142857,
+      "visiblePixels": 20545,
+      "sourceCrop": {
+        "x": 436.5252499407145,
+        "y": 126.12359125381522,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 596,
+        "y": 282,
+        "width": 606,
+        "height": 572
+      }
+    },
+    {
+      "index": 38,
+      "time": 5.285714285714286,
+      "visiblePixels": 17895,
+      "sourceCrop": {
+        "x": 405.1223338289585,
+        "y": 148.4716168517706,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 544,
+        "y": 340,
+        "width": 622,
+        "height": 504
+      }
+    },
+    {
+      "index": 39,
+      "time": 5.314285714285714,
+      "visiblePixels": 15409,
+      "sourceCrop": {
+        "x": 371.5528689689537,
+        "y": 173.84996254815167,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 498,
+        "y": 442,
+        "width": 626,
+        "height": 388
+      }
+    },
+    {
+      "index": 40,
+      "time": 5.342857142857143,
+      "visiblePixels": 13833,
+      "sourceCrop": {
+        "x": 337.9834041089489,
+        "y": 199.22830824453274,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 456,
+        "y": 580,
+        "width": 616,
+        "height": 240
+      }
+    },
+    {
+      "index": 41,
+      "time": 5.371428571428572,
+      "visiblePixels": 13590,
+      "sourceCrop": {
+        "x": 303.9739197573151,
+        "y": 223.34691907289323,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 424,
+        "y": 614,
+        "width": 592,
+        "height": 270
+      }
+    },
+    {
+      "index": 42,
+      "time": 5.4,
+      "visiblePixels": 19832,
+      "sourceCrop": {
+        "x": 273.8079843214707,
+        "y": 240.74034974393373,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 402,
+        "y": 614,
+        "width": 596,
+        "height": 304
+      }
+    },
+    {
+      "index": 43,
+      "time": 5.428571428571429,
+      "visiblePixels": 19816,
+      "sourceCrop": {
+        "x": 252.7937799091029,
+        "y": 249.1953948104831,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 402,
+        "y": 614,
+        "width": 596,
+        "height": 304
+      }
+    },
+    {
+      "index": 44,
+      "time": 5.457142857142857,
+      "visiblePixels": 22213,
+      "sourceCrop": {
+        "x": 248.83503460927204,
+        "y": 246.61954337207237,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 394,
+        "y": 614,
+        "width": 598,
+        "height": 308
+      }
+    },
+    {
+      "index": 45,
+      "time": 5.485714285714286,
+      "visiblePixels": 19503,
+      "sourceCrop": {
+        "x": 262.06089908282127,
+        "y": 233.9526678914715,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 414,
+        "y": 590,
+        "width": 572,
+        "height": 314
+      }
+    },
+    {
+      "index": 46,
+      "time": 5.514285714285714,
+      "visiblePixels": 16529,
+      "sourceCrop": {
+        "x": 281.2521299768141,
+        "y": 213.54498112781744,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 454,
+        "y": 556,
+        "width": 526,
+        "height": 308
+      }
+    },
+    {
+      "index": 47,
+      "time": 5.542857142857143,
+      "visiblePixels": 17727,
+      "sourceCrop": {
+        "x": 300.44336087080694,
+        "y": 193.13729436416327,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 520,
+        "y": 524,
+        "width": 476,
+        "height": 292
+      }
+    },
+    {
+      "index": 48,
+      "time": 5.571428571428571,
+      "visiblePixels": 20116,
+      "sourceCrop": {
+        "x": 322.2387595397537,
+        "y": 169.7962249725116,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 580,
+        "y": 490,
+        "width": 512,
+        "height": 340
+      }
+    },
+    {
+      "index": 49,
+      "time": 5.6,
+      "visiblePixels": 22210,
+      "sourceCrop": {
+        "x": 343.38023760557587,
+        "y": 148.67958058935437,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 574,
+        "y": 434,
+        "width": 574,
+        "height": 412
+      }
+    },
+    {
+      "index": 50,
+      "time": 5.628571428571428,
+      "visiblePixels": 22188,
+      "sourceCrop": {
+        "x": 360.9785137766272,
+        "y": 132.48614886911128,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 574,
+        "y": 434,
+        "width": 574,
+        "height": 412
+      }
+    },
+    {
+      "index": 51,
+      "time": 5.6571428571428575,
+      "visiblePixels": 23625,
+      "sourceCrop": {
+        "x": 370.1002011041501,
+        "y": 122.2601319023322,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 570,
+        "y": 350,
+        "width": 584,
+        "height": 510
+      }
+    },
+    {
+      "index": 52,
+      "time": 5.685714285714286,
+      "visiblePixels": 24276,
+      "sourceCrop": {
+        "x": 371.46469808388485,
+        "y": 118.7948212903209,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 566,
+        "y": 324,
+        "width": 576,
+        "height": 548
+      }
+    },
+    {
+      "index": 53,
+      "time": 5.714285714285714,
+      "visiblePixels": 23495,
+      "sourceCrop": {
+        "x": 368.6419942745939,
+        "y": 120.51515580105138,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 564,
+        "y": 302,
+        "width": 570,
+        "height": 578
+      }
+    },
+    {
+      "index": 54,
+      "time": 5.742857142857143,
+      "visiblePixels": 22929,
+      "sourceCrop": {
+        "x": 365.81929046530274,
+        "y": 122.23549031178175,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 562,
+        "y": 306,
+        "width": 566,
+        "height": 580
+      }
+    },
+    {
+      "index": 55,
+      "time": 5.771428571428571,
+      "visiblePixels": 22327,
+      "sourceCrop": {
+        "x": 361.2645645707677,
+        "y": 128.3018816979544,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 560,
+        "y": 310,
+        "width": 554,
+        "height": 580
+      }
+    },
+    {
+      "index": 56,
+      "time": 5.8,
+      "visiblePixels": 21339,
+      "sourceCrop": {
+        "x": 355.75164602151096,
+        "y": 137.6160867865159,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 560,
+        "y": 326,
+        "width": 528,
+        "height": 564
+      }
+    },
+    {
+      "index": 57,
+      "time": 5.828571428571429,
+      "visiblePixels": 21338,
+      "sourceCrop": {
+        "x": 348.17523162117527,
+        "y": 149.50240531352472,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 560,
+        "y": 326,
+        "width": 528,
+        "height": 564
+      }
+    },
+    {
+      "index": 58,
+      "time": 5.857142857142858,
+      "visiblePixels": 19780,
+      "sourceCrop": {
+        "x": 335.2372967582281,
+        "y": 165.05679899791812,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 562,
+        "y": 358,
+        "width": 486,
+        "height": 526
+      }
+    },
+    {
+      "index": 59,
+      "time": 5.885714285714286,
+      "visiblePixels": 16828,
+      "sourceCrop": {
+        "x": 316.8352586840234,
+        "y": 182.44020499170824,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 542,
+        "y": 412,
+        "width": 464,
+        "height": 460
+      }
+    },
+    {
+      "index": 60,
+      "time": 5.914285714285715,
+      "visiblePixels": 13487,
+      "sourceCrop": {
+        "x": 298.6392541230606,
+        "y": 201.8724770177513,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 510,
+        "y": 498,
+        "width": 456,
+        "height": 358
+      }
+    },
+    {
+      "index": 61,
+      "time": 5.942857142857143,
+      "visiblePixels": 10738,
+      "sourceCrop": {
+        "x": 288.51786113736443,
+        "y": 212.75213969167032,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 484,
+        "y": 616,
+        "width": 466,
+        "height": 220
+      }
+    },
+    {
+      "index": 62,
+      "time": 5.9714285714285715,
+      "visiblePixels": 10833,
+      "sourceCrop": {
+        "x": 276.83686991897014,
+        "y": 224.95341745538258,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 462,
+        "y": 644,
+        "width": 488,
+        "height": 192
+      }
+    },
+    {
+      "index": 63,
+      "time": 6,
+      "visiblePixels": 17143,
+      "sourceCrop": {
+        "x": 263.13493531239146,
+        "y": 238.08315336672536,
+        "width": 960,
+        "height": 960
+      },
+      "bounds": {
+        "x": 440,
+        "y": 638,
+        "width": 512,
+        "height": 246
+      }
+    }
+  ]
+}
